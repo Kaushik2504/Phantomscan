@@ -32,7 +32,7 @@ pip install requests
 ## 📦 Setup
 
 1. Clone the repository:
-git clone https://github.com/YOUR-USERNAME/phantomscan.git
+git clone https://github.com/Kaushik2504/phantomscan.git
 
 2. Navigate to the folder:
 cd phantomscan
@@ -71,7 +71,7 @@ Do not use it on unauthorized systems.
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]
+Developed by Kaushik
 
 ---
 
